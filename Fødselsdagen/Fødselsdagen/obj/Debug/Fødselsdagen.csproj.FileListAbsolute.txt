@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Fødselsdagen\Fødselsdagen\bin\Debug\Fødselsdagen.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Fødselsdagen\Fødselsdagen\bin\Debug\Fødselsdagen.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Fødselsdagen\Fødselsdagen\bin\Debug\Fødselsdagen.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.pdb
