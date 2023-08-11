@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Morsekoden\Morsekoden\bin\Debug\Morsekoden.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Morsekoden\Morsekoden\bin\Debug\Morsekoden.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Morsekoden\Morsekoden\bin\Debug\Morsekoden.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Morsekoden\Morsekoden\obj\Debug\Morsekoden.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Morsekoden\Morsekoden\obj\Debug\Morsekoden.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Morsekoden\Morsekoden\obj\Debug\Morsekoden.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Morsekoden\Morsekoden\obj\Debug\Morsekoden.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Morsekoden\Morsekoden\obj\Debug\Morsekoden.pdb
