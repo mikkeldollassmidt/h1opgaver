@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\BMIudregner\BMIudregner\bin\Debug\BMIudregner.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\BMIudregner\BMIudregner\bin\Debug\BMIudregner.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\BMIudregner\BMIudregner\bin\Debug\BMIudregner.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\BMIudregner\BMIudregner\obj\Debug\BMIudregner.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\BMIudregner\BMIudregner\obj\Debug\BMIudregner.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\BMIudregner\BMIudregner\obj\Debug\BMIudregner.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\BMIudregner\BMIudregner\obj\Debug\BMIudregner.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\BMIudregner\BMIudregner\obj\Debug\BMIudregner.pdb
