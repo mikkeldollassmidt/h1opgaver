@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\VinosBlanco\VinosBlanco\obj\Debug\VinosBlanco.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\VinosBlanco\VinosBlanco\obj\Debug\VinosBlanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\VinosBlanco\VinosBlanco\obj\Debug\VinosBlanco.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\VinosBlanco\VinosBlanco\bin\Debug\VinosBlanco.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\VinosBlanco\VinosBlanco\bin\Debug\VinosBlanco.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\VinosBlanco\VinosBlanco\bin\Debug\VinosBlanco.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\VinosBlanco\VinosBlanco\obj\Debug\VinosBlanco.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\VinosBlanco\VinosBlanco\obj\Debug\VinosBlanco.pdb
