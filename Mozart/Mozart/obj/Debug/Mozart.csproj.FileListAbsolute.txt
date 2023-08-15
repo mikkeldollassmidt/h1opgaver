@@ -1,0 +1,8 @@
+C:\Users\Dollas\Desktop\PROGRAMMERING\Mozart\Mozart\bin\Debug\Mozart.exe.config
+C:\Users\Dollas\Desktop\PROGRAMMERING\Mozart\Mozart\bin\Debug\Mozart.exe
+C:\Users\Dollas\Desktop\PROGRAMMERING\Mozart\Mozart\bin\Debug\Mozart.pdb
+C:\Users\Dollas\Desktop\PROGRAMMERING\Mozart\Mozart\obj\Debug\Mozart.csproj.AssemblyReference.cache
+C:\Users\Dollas\Desktop\PROGRAMMERING\Mozart\Mozart\obj\Debug\Mozart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dollas\Desktop\PROGRAMMERING\Mozart\Mozart\obj\Debug\Mozart.csproj.CoreCompileInputs.cache
+C:\Users\Dollas\Desktop\PROGRAMMERING\Mozart\Mozart\obj\Debug\Mozart.exe
+C:\Users\Dollas\Desktop\PROGRAMMERING\Mozart\Mozart\obj\Debug\Mozart.pdb
