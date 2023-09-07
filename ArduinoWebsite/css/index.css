@@ -1,0 +1,121 @@
+/* Added fonts */
+@font-face {
+    font-family: ExtraBold;
+    src: url('Lexend-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: Bold;
+    src: url('Lexend-Bold.ttf');
+}
+
+@font-face {
+    font-family: Medium;
+    src: url('Lexend-Bold.ttf');
+}
+
+
+/* Set background color */
+body {
+    font-family: Medium;
+    background: #F5F5FA;
+    background-size: cover;
+}
+
+.header-clock {
+    float: left;
+    margin-left: 50px;
+    align-items: center;
+    background: #f5f5fa;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: -10px -10px 30px 0 #fff,10px 10px 30px 0 #1d0dca17;
+    color: #2a1f62;
+    display: flex;
+    line-height: 1rem;
+    padding: 20px;
+    position: relative;
+    text-align: left;
+    transition: .2s;
+    touch-action: manipulation;
+    width: 360px;
+    height: 40px;
+}
+
+.clocktime {
+    font-family: Medium;
+    font-size: 40px;
+    text-align: center;
+    color: #2a1f62;
+}
+
+header {
+    position: absolute;
+    overflow: visible;
+    width: 1850px;
+    height: 80px;
+    right: 40px;
+    top: 30px;
+    background: transparent;
+}
+
+.header-button {
+    float: left;
+    margin-left: 50px;
+    align-items: center;
+    background: #f5f5fa;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: -10px -10px 30px 0 #fff,10px 10px 30px 0 #1d0dca17;
+    color: #2a1f62;
+    cursor: pointer;
+    display: flex;
+    line-height: 1rem;
+    padding: 20px;
+    position: relative;
+    text-align: left;
+    transition: .2s;
+    touch-action: manipulation;
+    width: 400px;
+    height: 80px;
+}
+
+    .header-button:hover {
+        background: #f8f8ff;
+        box-shadow: -15px -15px 30px 0 #fff, 15px 15px 30px 0 #1d0dca17;
+    }
+
+.header-button-title {
+    color: #2a1f62;
+    font-size: 25px;
+    font-family: ExtraBold;
+}
+
+.header-button-subtext {
+    color: #d2d1de;
+    font-size: 15px;
+    font-family: Medium;
+}
+
+#header-button-picture {
+    height: 60px;
+    position: absolute;
+    right: 20px;
+    filter: drop-shadow(3px 3px 3px #Cccaea);
+}
+
+.title {
+    text-align: center;
+    padding: 0px 10px;
+    color: #2a1f62;
+    font-size: 25px;
+    font-family: ExtraBold;
+}
+
+
+.subtext {
+    text-align: center;
+    color: #d2d1de;
+    font-size: 15px;
+    font-family: Medium;
+}

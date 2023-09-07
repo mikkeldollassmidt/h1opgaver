@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🖥️</title>
+    <link rel="stylesheet" href="css/logs.css">
+
+</head>
+<body>
+    <header>
+        <!-- Clock in header section -->
+        <a href="index.html" tabindex="1">
+
+            <div class="header-clock">
+                <div class="clocktime">
+                    <span id="hours">00</span>
+                    <span>:</span>
+                    <span id="mins">00</span>
+                    <span>:</span>
+                    <span id="secs">00</span>
+                </div>
+                <img id="header-button-picture" src="images\clock.png" />
+                <script>
+                    let hours = document.getElementById("hours");
+                    let mins = document.getElementById("mins");
+                    let secs = document.getElementById("secs");
+
+                    setInterval(() => {
+                        let currentTime = new Date();
+
+                        hours.innerHTML = (currentTime.getHours() < 10 ? "0" : "") + currentTime.getHours();
+                        mins.innerHTML = (currentTime.getMinutes() < 10 ? "0" : "") + currentTime.getMinutes();
+                        secs.innerHTML = (currentTime.getSeconds() < 10 ? "0" : "") + currentTime.getSeconds();
+                    }, 1000)
+
+                </script>
+            </div>
+        </a>
+
+    </header>
+
+    <div class="latestdatelogs-container">
+        <div>
+            <h1 class="title">Latest Log<iframe id="outputLatestDateLogsFile" src="C:\Users\zbc23mods\Desktop\ArduinoProject1\ArduinoOutput\outputLatestDate.txt"></iframe></h1>
+
+            <script>
+                // Function to reload log-container
+                function reloadLogContainer() {
+                    var iframe = document.getElementById("outputLatestDateLogsFile");
+                    iframe.src = iframe.src; // Setting iframe.src to be the new updated iframe.src.
+                }
+
+                // Set the timer to reload the iframe every 5 seconds (5000 milliseconds)
+                setInterval(reloadLogContainer, 5000);
+            </script>
+        </div>
+    </div>
+
+    <div class="graphContainers">
+        <div class="graphEnergyPrices">Hallo</div>
+        <div class="graphContents">LLklnasflkn</div>
+    </div>
+
+
+    <div class="fridge-temperature-container">
+        <div>
+            <h1 class="title">Fridge Temperature</h1>
+            <h2 class="temperature">5°</h2>
+            <div class="connected-fridge">
+                <h1 class="connected-text">Connected</h1>
+                <h2 class="fridge-name">LG GSXV91MCAF</h2>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="alllogs-container">
+        <div>
+            <h1 class="title">All Logs</h1>
+            <h2 class="subtext">(Newest first)</h2>
+            <iframe id="outputLogFile" src="C:\Users\zbc23mods\Desktop\ArduinoProject1\ArduinoOutput\outputAllLogs.txt"></iframe>
+
+            <script>
+                // Function to reload log-container
+                function reloadLogContainer() {
+                    var iframe = document.getElementById("outputLogFile");
+                    iframe.src = iframe.src; // Setting iframe.src to be the new updated iframe.src.
+                }
+
+                // Set the timer to reload the iframe every 5 seconds (5000 milliseconds)
+                setInterval(reloadLogContainer, 5000);
+            </script>
+        </div>
+    </div>
+
+</body>
+
+</html>
