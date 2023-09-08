@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🖥️</title>
+    <link rel="stylesheet" href="css/index.css">
+
+</head>
+<body>
+    <header>
+        <!-- Clock in header section -->
+        <a href="index.html" tabindex="1">
+
+            <div class="header-clock">
+                <div class="clocktime">
+                    <span id="hours">00</span>
+                    <span>:</span>
+                    <span id="mins">00</span>
+                    <span>:</span>
+                    <span id="secs">00</span>
+                </div>
+                <img id="header-button-picture" src="images\clock.png" />
+                <script>
+                    let hours = document.getElementById("hours");
+                    let mins = document.getElementById("mins");
+                    let secs = document.getElementById("secs");
+
+                    setInterval(() => {
+                        let currentTime = new Date();
+
+                        hours.innerHTML = (currentTime.getHours() < 10 ? "0" : "") + currentTime.getHours();
+                        mins.innerHTML = (currentTime.getMinutes() < 10 ? "0" : "") + currentTime.getMinutes();
+                        secs.innerHTML = (currentTime.getSeconds() < 10 ? "0" : "") + currentTime.getSeconds();
+                    }, 1000)
+
+                </script>
+            </div>
+        </a>
+
+        <!-- Clickable buttons:-->
+        <!--Button 1-->
+        <a href="logs.html" tabindex="2">
+            <button class="header-button" role="button">
+                <div>
+                    <h1 class="header-button-title">Logs</h1>
+                    <h2 class="header-button-subtext">All logs, Newest Logs.</h2>
+                </div>
+                <img id="header-button-picture" src="images\logs.png" />
+            </button>
+        </a>
+
+        <!--Button 2-->
+        <button class="header-button" role="button">
+            <div>
+                <h1 class="header-button-title">Sidenavn</h1>
+                <h2 class="header-button-subtext">(Information)</h2>
+            </div>
+            <img id="header-button-picture" src="images\logs.png" />
+        </button>
+
+        <!--Button 3-->
+        <button class="header-button" role="button">
+            <div>
+                <h1 class="header-button-title">Sidenavn</h1>
+                <h2 class="header-button-subtext">(Information)</h2>
+            </div>
+            <img id="header-button-picture" src="images\logs.png" />
+        </button>
+
+    </header>
+
+</body>
+</html>
