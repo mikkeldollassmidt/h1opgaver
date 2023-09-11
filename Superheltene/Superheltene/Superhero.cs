@@ -10,7 +10,7 @@ namespace Superheltene
     /// Class defines a superhero special character traits.
     /// Making properies read-only 
     /// </summary>
-    internal class Superhero
+    public class Superhero
     {
         // Attribute list ↓ 
         private string _superHeroName;
