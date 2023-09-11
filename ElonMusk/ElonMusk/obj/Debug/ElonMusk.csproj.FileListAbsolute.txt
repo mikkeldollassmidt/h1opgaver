@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ElonMusk\ElonMusk\bin\Debug\ElonMusk.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ElonMusk\ElonMusk\bin\Debug\ElonMusk.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ElonMusk\ElonMusk\bin\Debug\ElonMusk.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ElonMusk\ElonMusk\obj\Debug\ElonMusk.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ElonMusk\ElonMusk\obj\Debug\ElonMusk.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ElonMusk\ElonMusk\obj\Debug\ElonMusk.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ElonMusk\ElonMusk\obj\Debug\ElonMusk.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ElonMusk\ElonMusk\obj\Debug\ElonMusk.pdb
