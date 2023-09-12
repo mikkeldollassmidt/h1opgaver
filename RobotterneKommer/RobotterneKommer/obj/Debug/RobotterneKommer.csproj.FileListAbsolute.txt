@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\RobotterneKommer\RobotterneKommer\bin\Debug\RobotterneKommer.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\RobotterneKommer\RobotterneKommer\bin\Debug\RobotterneKommer.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\RobotterneKommer\RobotterneKommer\bin\Debug\RobotterneKommer.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\RobotterneKommer\RobotterneKommer\obj\Debug\RobotterneKommer.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\RobotterneKommer\RobotterneKommer\obj\Debug\RobotterneKommer.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\RobotterneKommer\RobotterneKommer\obj\Debug\RobotterneKommer.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\RobotterneKommer\RobotterneKommer\obj\Debug\RobotterneKommer.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\RobotterneKommer\RobotterneKommer\obj\Debug\RobotterneKommer.pdb
