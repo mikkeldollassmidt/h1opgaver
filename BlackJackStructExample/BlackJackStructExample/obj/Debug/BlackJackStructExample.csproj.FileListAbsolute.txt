@@ -1,0 +1,8 @@
+C:\Users\Dollas\Desktop\PROGRAMMERING\BlackJackStructExample\BlackJackStructExample\bin\Debug\BlackJackStructExample.exe.config
+C:\Users\Dollas\Desktop\PROGRAMMERING\BlackJackStructExample\BlackJackStructExample\bin\Debug\BlackJackStructExample.exe
+C:\Users\Dollas\Desktop\PROGRAMMERING\BlackJackStructExample\BlackJackStructExample\bin\Debug\BlackJackStructExample.pdb
+C:\Users\Dollas\Desktop\PROGRAMMERING\BlackJackStructExample\BlackJackStructExample\obj\Debug\BlackJackStructExample.csproj.AssemblyReference.cache
+C:\Users\Dollas\Desktop\PROGRAMMERING\BlackJackStructExample\BlackJackStructExample\obj\Debug\BlackJackStructExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dollas\Desktop\PROGRAMMERING\BlackJackStructExample\BlackJackStructExample\obj\Debug\BlackJackStructExample.csproj.CoreCompileInputs.cache
+C:\Users\Dollas\Desktop\PROGRAMMERING\BlackJackStructExample\BlackJackStructExample\obj\Debug\BlackJackStructExample.exe
+C:\Users\Dollas\Desktop\PROGRAMMERING\BlackJackStructExample\BlackJackStructExample\obj\Debug\BlackJackStructExample.pdb
