@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Planeterne\Planeterne\bin\Debug\Planeterne.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Planeterne\Planeterne\bin\Debug\Planeterne.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Planeterne\Planeterne\bin\Debug\Planeterne.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Planeterne\Planeterne\obj\Debug\Planeterne.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Planeterne\Planeterne\obj\Debug\Planeterne.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Planeterne\Planeterne\obj\Debug\Planeterne.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Planeterne\Planeterne\obj\Debug\Planeterne.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Planeterne\Planeterne\obj\Debug\Planeterne.pdb
