@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Biblioteket\Biblioteket\bin\Debug\Biblioteket.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Biblioteket\Biblioteket\bin\Debug\Biblioteket.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Biblioteket\Biblioteket\bin\Debug\Biblioteket.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Biblioteket\Biblioteket\obj\Debug\Biblioteket.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Biblioteket\Biblioteket\obj\Debug\Biblioteket.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Biblioteket\Biblioteket\obj\Debug\Biblioteket.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Biblioteket\Biblioteket\obj\Debug\Biblioteket.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Biblioteket\Biblioteket\obj\Debug\Biblioteket.pdb
