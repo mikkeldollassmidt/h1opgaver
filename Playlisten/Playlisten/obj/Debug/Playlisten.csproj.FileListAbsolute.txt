@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Playlisten\Playlisten\bin\Debug\Playlisten.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Playlisten\Playlisten\bin\Debug\Playlisten.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Playlisten\Playlisten\bin\Debug\Playlisten.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Playlisten\Playlisten\obj\Debug\Playlisten.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Playlisten\Playlisten\obj\Debug\Playlisten.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Playlisten\Playlisten\obj\Debug\Playlisten.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Playlisten\Playlisten\obj\Debug\Playlisten.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Playlisten\Playlisten\obj\Debug\Playlisten.pdb
