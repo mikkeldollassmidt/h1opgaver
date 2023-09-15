@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\JediMindTricks\JediMindTricks\bin\Debug\JediMindTricks.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\JediMindTricks\JediMindTricks\bin\Debug\JediMindTricks.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\JediMindTricks\JediMindTricks\bin\Debug\JediMindTricks.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\JediMindTricks\JediMindTricks\obj\Debug\JediMindTricks.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\JediMindTricks\JediMindTricks\obj\Debug\JediMindTricks.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\JediMindTricks\JediMindTricks\obj\Debug\JediMindTricks.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\JediMindTricks\JediMindTricks\obj\Debug\JediMindTricks.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\JediMindTricks\JediMindTricks\obj\Debug\JediMindTricks.pdb
