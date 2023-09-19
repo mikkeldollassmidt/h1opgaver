@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\TheFirm\TheFirm\bin\Debug\TheFirm.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\TheFirm\TheFirm\bin\Debug\TheFirm.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\TheFirm\TheFirm\bin\Debug\TheFirm.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\TheFirm\TheFirm\obj\Debug\TheFirm.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\TheFirm\TheFirm\obj\Debug\TheFirm.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\TheFirm\TheFirm\obj\Debug\TheFirm.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\TheFirm\TheFirm\obj\Debug\TheFirm.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\TheFirm\TheFirm\obj\Debug\TheFirm.pdb
