@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ProgrammeringsPrøve\ProgrammeringsPrøve\bin\Debug\ProgrammeringsPrøve.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ProgrammeringsPrøve\ProgrammeringsPrøve\bin\Debug\ProgrammeringsPrøve.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ProgrammeringsPrøve\ProgrammeringsPrøve\bin\Debug\ProgrammeringsPrøve.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ProgrammeringsPrøve\ProgrammeringsPrøve\obj\Debug\ProgrammeringsPrøve.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ProgrammeringsPrøve\ProgrammeringsPrøve\obj\Debug\ProgrammeringsPrøve.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ProgrammeringsPrøve\ProgrammeringsPrøve\obj\Debug\ProgrammeringsPrøve.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ProgrammeringsPrøve\ProgrammeringsPrøve\obj\Debug\ProgrammeringsPrøve.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\ProgrammeringsPrøve\ProgrammeringsPrøve\obj\Debug\ProgrammeringsPrøve.pdb
